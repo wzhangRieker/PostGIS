@@ -1,0 +1,15 @@
+C:\wzhang\Temp\WindowsFormsAppTest\PgSQL\bin\Release\PgSQL.dll
+C:\wzhang\Temp\WindowsFormsAppTest\PgSQL\bin\Release\PgSQL.pdb
+C:\wzhang\Temp\WindowsFormsAppTest\PgSQL\bin\Release\Npgsql.dll
+C:\wzhang\Temp\WindowsFormsAppTest\PgSQL\bin\Release\Mono.Security.dll
+C:\wzhang\Temp\WindowsFormsAppTest\PgSQL\bin\Release\Npgsql.pdb
+C:\wzhang\Temp\WindowsFormsAppTest\PgSQL\bin\Release\Npgsql.xml
+C:\wzhang\Temp\WindowsFormsAppTest\PgSQL\bin\Release\de\Npgsql.resources.dll
+C:\wzhang\Temp\WindowsFormsAppTest\PgSQL\bin\Release\es\Npgsql.resources.dll
+C:\wzhang\Temp\WindowsFormsAppTest\PgSQL\bin\Release\fi\Npgsql.resources.dll
+C:\wzhang\Temp\WindowsFormsAppTest\PgSQL\bin\Release\fr\Npgsql.resources.dll
+C:\wzhang\Temp\WindowsFormsAppTest\PgSQL\bin\Release\ja\Npgsql.resources.dll
+C:\wzhang\Temp\WindowsFormsAppTest\PgSQL\bin\Release\zh-CN\Npgsql.resources.dll
+C:\wzhang\Temp\WindowsFormsAppTest\PgSQL\obj\Release\PgSQL.csprojResolveAssemblyReference.cache
+C:\wzhang\Temp\WindowsFormsAppTest\PgSQL\obj\Release\PgSQL.dll
+C:\wzhang\Temp\WindowsFormsAppTest\PgSQL\obj\Release\PgSQL.pdb
